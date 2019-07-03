@@ -1,1 +1,1 @@
-# ZeroMiner
+# ZeroMiner CPU
